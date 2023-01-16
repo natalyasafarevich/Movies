@@ -1,13 +1,11 @@
-<<<<<<< HEAD
-# Popular movies from [TMDB](https://www.themoviedb.org/ "https://www.themoviedb.org/")
 
+# Popular movies from [TMDB](https://www.themoviedb.org/ "https://www.themoviedb.org/")
 
 ![1673866021564](image/README/1673866021564.png)
 
 Display popular movies with using API	[The Movie Database (TMDB)](https://www.themoviedb.org/)
 
 You can watch today popular movies [here](https://natalya-safarevich-movies.netlify.app/ " Movies").
-
 
 In this project I mastered:
 
@@ -17,23 +15,3 @@ In this project I mastered:
 * API
 * Fetch
 * DOM
-=======
-# Popular movies from [TMDB](https://www.themoviedb.org/ "https://www.themoviedb.org/")
-
-
-![1673866021564](image/README/1673866021564.png)
-
-Display popular movies with using API	[The Movie Database (TMDB)](https://www.themoviedb.org/)
-
-You can watch today popular movies [here](https://natalya-safarevich-movies.netlify.app/ " Movies").
-
-
-In this project I mastered:
-
-* HTML
-* CSS
-* JavaScript
-* API
-* Fetch
-* DOM
->>>>>>> 29332aa4cb706d504dacf654fa2166c4765db7a4
